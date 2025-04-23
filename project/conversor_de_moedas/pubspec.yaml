@@ -1,6 +1,6 @@
 name: conversor_de_moedas
 description: "A new Flutter project."
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: 'none' 
 
 version: 1.0.0+1
 
@@ -21,5 +21,5 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/images/ # Adiciona a pasta onde estarão suas imagens
+    - assets/images/logo.png
 
